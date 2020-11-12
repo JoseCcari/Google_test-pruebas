@@ -12,6 +12,14 @@
   make -j8 
   sudo make install  
   </code></pre>  
+  codificamos la función a probar , en este caso uno de prueba :
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/funcion.PNG) 
+  
+  Testeamos :
+  
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/prueba.PNG) 
+  
+  <pre><code>
     cmake_minimum_required(VERSION 2.6)
     # Locate GTest
     find_package(GTest REQUIRED)
@@ -22,6 +30,9 @@
     target_link_libraries(runTests ${GTEST_LIBRARIES} pthread)
   </code></pre>  
   
+  Por último compilamos :
+  
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/pruebas.PNG) 
   
   
   ## Pruebas unitarias con Google test en Visual Studio 
