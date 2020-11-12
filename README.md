@@ -17,7 +17,7 @@
   
   Testeamos :
   
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/prueba.PNG) 
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/pruebas.PNG) 
   
   <pre><code>
     cmake_minimum_required(VERSION 2.6)
@@ -32,7 +32,7 @@
   
   Por último compilamos :
   
-  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/pruebas.PNG) 
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/Prueba.PNG) 
   
   
   ## Pruebas unitarias con Google test en Visual Studio 
