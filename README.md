@@ -13,7 +13,8 @@
   sudo make install  
   </code></pre>   
   
-  codificamos la función a probar , en este caso uno de prueba :
+  codificamos la función a probar , en este caso uno de prueba : 
+  
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/funcion.PNG) 
   
   Testeamos :
