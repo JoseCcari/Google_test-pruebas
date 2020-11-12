@@ -3,7 +3,7 @@
   primero instalamos los paquetes necesarios 
   <pre><code>sudo apt-get install libgtest-dev </code></pre> 
   <pre><code>clone https://github.com/google/googletest.git </code></pre>  
-  luego nos ponemos en el directorio del g test y : 
+  luego nos ponemos en el directorio del g test y :  
   <pre><code>
   clone cd googletest
   mkdir build 
@@ -11,7 +11,8 @@
   cmake-gui ..
   make -j8 
   sudo make install  
-  </code></pre>  
+  </code></pre>   
+  
   codificamos la función a probar , en este caso uno de prueba :
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Google_test-pruebas/blob/main/Img/funcion.PNG) 
   
